@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://vini1785:vini1785@cluster0-wnznv.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken "
+    "jwtSecret": "mysecrettoken ",
+    "githubClientId": "ef57dde690386b5adb7b",
+    "githubClientSecret": "391bbd47e24ef9e541221c7b3fcf59f6ffd56d0c"
 }
